@@ -1,3 +1,11 @@
 # Aqui esta uma linha ignorada
 config.ini
+service.config
+
+*.log
+
+build/
+log/
+lib/
+
 
