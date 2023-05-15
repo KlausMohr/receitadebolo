@@ -2,8 +2,12 @@
 config.ini
 service.config
 
-*.log
+#Extensões
 
+	#.log
+	*.log
+
+#Diretórios
 build/
 log/
 lib/
